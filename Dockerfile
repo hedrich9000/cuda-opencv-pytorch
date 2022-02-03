@@ -112,5 +112,3 @@ RUN pip3 install virtualenv
 # RUN pip3 install -r requirements.txt --src libs
 # RUN rm requirements.txt
 
-ENV ML_DATA_PATH=/root/data
-

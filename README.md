@@ -13,7 +13,7 @@ For example:
 * OpenCV 4.5.2
 
 ````shell
-docker run --gpus all hedrich9000/cuda-opencv-pytorch:cuda11.3-cv4.5-pytorch1.10
+docker run --gpus all hedrich9000/cuda-opencv-pytorch:cuda11.3-cv4.5-pytorch1.10.2
 ````
 
 
@@ -24,3 +24,5 @@ https://hub.docker.com/repository/docker/hedrich9000/cuda-opencv-pytorch
 
 ## Available Images
 * cuda11.3.1-cv4.5.2-pytorch1.10.0
+* cuda11.3.1-cv4.5.2-pytorch1.10.2
+* cuda11.3.1-cv4.5.5-pytorch1.10.2
