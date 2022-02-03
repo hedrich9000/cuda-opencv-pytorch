@@ -25,4 +25,3 @@ https://hub.docker.com/repository/docker/hedrich9000/cuda-opencv-pytorch
 ## Available Images
 * cuda11.3.1-cv4.5.2-pytorch1.10.0
 * cuda11.3.1-cv4.5.2-pytorch1.10.2
-* cuda11.3.1-cv4.5.5-pytorch1.10.2
